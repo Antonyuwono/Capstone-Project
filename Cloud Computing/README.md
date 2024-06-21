@@ -29,7 +29,8 @@ The objective of this project is to teach and improve the knowledge of childrens
 3. **Backend Deployment:**
    * Deploy the Cloud Run service using the provided Docker image.
    * Set environment variables for the Places API key and Firestore credentials.
-  
+     
+Berikut beberapa lampiran foto service yang kami pakai di Google Cloud Platform
 ![Berikut Lampiran dari Service Monitoring](img/Monitoring.png)
 ![Berikut Lampiran dari Service Cloud Run](img/cloud_run.png)
 ![Berikut Lampiran dari Service Firestore](img/firestore.png)
