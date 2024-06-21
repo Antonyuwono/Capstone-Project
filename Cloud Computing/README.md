@@ -25,7 +25,9 @@ The objective of this project is to teach and improve the knowledge of childrens
 1. **Prerequisites:**
    * Active Google Cloud Platform project with billing enabled.
    * API key for Google Places API.
+  
+![Berikut beberapa lampiran dari service Google Cloud Platform yang kami paka](img/Monitoring.png)
 
-2. **Backend Deployment:**
+3. **Backend Deployment:**
    * Deploy the Cloud Run service using the provided Docker image.
    * Set environment variables for the Places API key and Firestore credentials.
