@@ -31,6 +31,7 @@ The objective of this project is to teach and improve the knowledge of childrens
    * Set environment variables for the Places API key and Firestore credentials.
      
 Berikut beberapa lampiran foto service yang kami pakai di Google Cloud Platform
+
 **Monitoring:**collect and visualize key metrics related to our application's resource usage, request latency, and error rates.
 ![Berikut Lampiran dari Service Monitoring](img/Monitoring.png)
 **Cloud Run:** Handles API requests, data processing, and communication with other services.
