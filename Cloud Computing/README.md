@@ -26,7 +26,7 @@ The objective of this project is to teach and improve the knowledge of childrens
    * Active Google Cloud Platform project with billing enabled.
    * API key for Google Places API.
   
-![Berikut beberapa lampiran dari service Google Cloud Platform yang kami paka](img/Monitoring.png)
+![Berikut beberapa lampiran dari service Google Cloud Platform yang kami paka](Capstone-Project/img/Monitoring.png)
 
 3. **Backend Deployment:**
    * Deploy the Cloud Run service using the provided Docker image.
