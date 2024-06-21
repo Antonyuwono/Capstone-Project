@@ -38,5 +38,8 @@ Here are some attached photos of the services we use on Google Cloud Platform.
 ![Berikut Lampiran dari Service Cloud Run](img/cloud_run.png)
 **Firestore:** Stores data about historical places.
 ![Berikut Lampiran dari Service Firestore](img/firestore.png)
+**Google Places API** to locate the the position of the searched places
+![Berikut Lampiran dari Service Maps API](img/maps_api.png)
+
 
 
