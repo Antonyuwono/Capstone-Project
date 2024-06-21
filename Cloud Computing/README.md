@@ -32,7 +32,7 @@ The objective of this project is to teach and improve the knowledge of childrens
      
 Berikut beberapa lampiran foto service yang kami pakai di Google Cloud Platform
 
-**Monitoring:**collect and visualize key metrics related to our application's resource usage, request latency, and error rates.
+**Monitoring:** Collect and visualize key metrics related to our application's resource usage, request latency, and error rates.
 ![Berikut Lampiran dari Service Monitoring](img/Monitoring.png)
 **Cloud Run:** Handles API requests, data processing, and communication with other services.
 ![Berikut Lampiran dari Service Cloud Run](img/cloud_run.png)
