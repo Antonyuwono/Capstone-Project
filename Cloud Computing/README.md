@@ -30,7 +30,7 @@ The objective of this project is to teach and improve the knowledge of childrens
    * Deploy the Cloud Run service using the provided Docker image.
    * Set environment variables for the Places API key and Firestore credentials.
      
-Berikut beberapa lampiran foto service yang kami pakai di Google Cloud Platform
+Here are some attached photos of the services we use on Google Cloud Platform.
 
 **Monitoring:** Collect and visualize key metrics related to our application's resource usage, request latency, and error rates.
 ![Berikut Lampiran dari Service Monitoring](img/Monitoring.png)
